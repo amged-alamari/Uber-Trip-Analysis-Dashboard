@@ -53,10 +53,10 @@ The aim is to delve into Uber trip data to uncover trends in booking, revenue, a
 ## Dashboard Images
 Here are some images from the dashboard:
 
-![Uber Overview Analysis](/Dashboard Images/Uber Overview Analysis.png)
-![Uber Details](/Dashboard Images/Uber Details.png)
-![Uber Model](/Dashboard Images/Uber Model.png)
-![Uber Time Analysis](/Dashboard Images/Uber Time Analysis.png)
+![Uber Overview Analysis](/Dashboard%20Images/Uber%20Overview%20Analysis.png)
+![Uber Details](/Dashboard%20Images/Uber%20Details.png)
+![Uber Model](/Dashboard%20Images/Uber%20Model.png)
+![Uber Time Analysis](/Dashboard%20Images/Uber%20Time%20Analysis.png)
 
 ## Data Sources
 This project uses the following data sources located in the `data` folder:
