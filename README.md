@@ -3,6 +3,8 @@
 ## Overview
 This project uses Power BI to analyze Uber trip data, providing insights into trip bookings, payment types, and trip distances. The dashboard is designed to help stakeholders make informed, data-driven decisions.
 
+![Uber Overview Analysis](/Dashboard%20Images/Uber%20Overview%20Analysis.png)
+
 ## Problem Statement
 Designed & developed by: Swapnjeet S
 
@@ -24,38 +26,25 @@ The aim is to delve into Uber trip data to uncover trends in booking, revenue, a
 
 ## Project Breakdown
 
-### Step 1: Define the Scope and Objectives
-- Initiated with a clear problem statement to focus the analysis on specific business needs.
+### Data Preparation
+- **Data Collection:** Collected data from `Uber Trip Details.xlsx` and `Location Table.xlsx`.
+- **Data Cleaning and Setup:** Preprocessed and cleaned data using Excel to ensure accuracy and usability in Power BI.
 
-### Step 2: Data Collection
-- Collected data from `Uber Trip Details.xlsx` and `Location Table.xlsx`.
-
-### Step 3: Data Preparation
-- Preprocessed and cleaned data to ensure accuracy and usability in Power BI.
-
-### Step 4: Power BI Dashboard Development
-- Developed a comprehensive dashboard with various visualizations to represent the data effectively.
-- Implemented interactive elements like slicers and dynamic measures.
-
-### Step 5: Calculation of KPIs
-- Employed DAX to compute crucial KPIs accurately.
-
-### Step 6: Optimization and Testing
-- Optimized performance and responsiveness of the dashboard.
-- Conducted tests to validate data integrity and functionality.
-
-### Step 7: Documentation and Deployment
-- Prepared detailed documentation and deployed the dashboard for operational use.
-
-### Step 8: Feedback Incorporation
-- Iteratively improved the dashboard based on stakeholder feedback.
-
-## Dashboard Images
-Here are some images from the dashboard:
-
-![Uber Overview Analysis](/Dashboard%20Images/Uber%20Overview%20Analysis.png)
-![Uber Details](/Dashboard%20Images/Uber%20Details.png)
+### Power BI Implementation
+- **Dashboard Development:** Imported the cleaned data into Power BI and created relationships between data tables.
 ![Uber Model](/Dashboard%20Images/Uber%20Model.png)
+- **Visualization and KPI Calculation:** Developed visualizations and calculated KPIs using DAX, focusing on total bookings, booking value, trip distance, and time metrics.
+- **Interactive Elements:** Enhanced the dashboard with slicers, dynamic measures, and interactive filters for an engaging user experience.
+
+### Enhancements and Testing
+- **Dynamic Features:** Implemented dynamic titles and conditional formatting to highlight key data points.
+![Uber Details](/Dashboard%20Images/Uber%20Details.png)
+- **Performance Optimization:** Optimized the dashboard for performance and conducted thorough testing to validate functionality and data integrity.
+
+### Documentation and Deployment
+- **User Documentation:** Compiled detailed documentation outlining the development process and user guide.
+- **Deployment:** Deployed the dashboard for stakeholder review and operational use, incorporating feedback for iterative improvements.
+
 ![Uber Time Analysis](/Dashboard%20Images/Uber%20Time%20Analysis.png)
 
 ## Data Sources
@@ -65,3 +54,6 @@ This project uses the following data sources located in the `data` folder:
 
 ## How to Contribute
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
+
+## License
+This project is available under the MIT License. See the LICENSE file for more details.
