@@ -47,10 +47,18 @@ The aim is to delve into Uber trip data to uncover trends in booking, revenue, a
 
 ![Uber Time Analysis](/Dashboard%20Images/Uber%20Time%20Analysis.png)
 
+## Project File
+To explore or modify the full dashboard in Power BI, download the template file here:
+
+➡️ [Uber Dashboard Project.pbit](/Uber%20Dashboard%20Project.pbit)
+
 ## Data Sources
 This project uses the following data sources:
-- **[Uber Trip Details.xlsx](/data/Uber%20Trip%20Details.xlsx)** - Contains detailed trip records and booking data.
-- **[Location Table.xlsx](/data/Location%20Table.xlsx)** - Provides location-specific data for analysis.
+- **[Uber Trip Details.xlsx](/data/Uber%20Trip%20Details.xlsx)** – Contains detailed trip records and booking data.
+- **[Location Table.xlsx](/data/Location%20Table.xlsx)** – Provides location-specific data for analysis.
 
 ## How to Contribute
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
+
+## License
+This project is available under the MIT License. See the LICENSE file for more details.
