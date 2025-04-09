@@ -59,6 +59,3 @@ This project uses the following data sources:
 
 ## How to Contribute
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
-
-## License
-This project is available under the MIT License. See the LICENSE file for more details.
